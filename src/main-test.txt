@@ -1,0 +1,1 @@
+echo "Šis failas skirtas pull request testui" > main-test.txt
