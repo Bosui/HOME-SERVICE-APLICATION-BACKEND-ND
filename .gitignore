@@ -1,0 +1,35 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build directories
+/dist
+/build
+/out
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
